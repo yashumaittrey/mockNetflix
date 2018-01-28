@@ -1,0 +1,38 @@
+.list-custom{
+	width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.item-custom{
+  display: inline-block;
+  padding: 30px;
+}
+.bg-color-custom{
+	background-color:#EEE;
+}
+.header-custom{
+	background-color: #e50914;
+  color: #fff;
+  padding-left: 10%;
+  height: 100px;
+  padding-top: 2%;
+}
+.header-custom .logo-custom{
+	color: #fff;
+	font-size: 30px;
+}
+.button-custom{
+  margin-top: 24px;
+  text-align: center;
+}
+.container h5{
+  padding-top: 30px;
+}
+.container h4{
+  text-align: center;
+  padding: 50px;
+}
+.container ul{
+  list-style: none;
+  padding-top: 30px;
+}
